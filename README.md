@@ -1,6 +1,6 @@
-# ASVB - Site Vitrine
+# 🏐 ASVB 🏐 
 
-# 🏐 Site web du club de volley Saint Barthélémy d’Anjou
+Site web du club de volley Saint Barthélémy d’Anjou 
 
 Projet de création d’un site web moderne, évolutif et administrable pour l’association sportive **Saint Barthélémy Volley-ball**, à destination des membres du club mais aussi du grand public.
 
@@ -10,7 +10,8 @@ Projet de création d’un site web moderne, évolutif et administrable pour l�
 
 ### 1.1 Contexte
 
-L’association sportive de volley **Saint Barthélémy d’Anjou** souhaite créer un site web moderne, évolutif et facile à administrer.  
+A ma propre initiative pour me former, je souhaite créer pour l’association sportive de volley **Saint Barthélémy d’Anjou** un site web moderne, évolutif et facile à administrer. 
+
 Ce site a pour vocation de **servir à la fois les membres du club** et **les visiteurs extérieurs** (supporters, familles, amateurs de volley, partenaires…).
 
 Le site permettra de :
